@@ -1,4 +1,10 @@
-@import-normalize; /* bring in normalize.css styles */
+* {
+  padding: 0;
+  margin: 0;
+  font-size: 32px;
+  text-align: center;
+  list-style: none;
+}
 
 body {
   margin: 0;
